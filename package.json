@@ -1,6 +1,6 @@
 {
   "name": "airsonos",
-  "version": "0.2.7",
+  "version": "0.2.8",
   "author": "Stephen Wan <stephen@stephenwan.net>",
   "description": "AirTunes to Sonos devices",
   "contributors": [
@@ -25,8 +25,8 @@
     "flags": "~0.1.2",
     "ip": "1.1.0",
     "nicercast": "0.1.0",
-    "nodetunes": "git://github.com/tomodwyer/nodetunes.git#0.3.1",
-    "sonos": "git://github.com/stephen/node-sonos.git#stephen-1.0.0"
+    "nodetunes": "git://github.com/kkla320/nodetunes.git#0.3.1",
+    "sonos": "git://github.com/bencevans/node-sonos.git"
   },
   "license": "MIT",
   "devDependencies": {
