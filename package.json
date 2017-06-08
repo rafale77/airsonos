@@ -25,7 +25,7 @@
     "flags": "~0.1.2",
     "ip": "1.1.0",
     "nicercast": "0.1.0",
-    "nodetunes": "git://github.com/kkla320/nodetunes.git#0.3.1",
+    "nodetunes": "git://github.com/kkla320/nodetunes.git",
     "sonos": "git://github.com/bencevans/node-sonos.git"
   },
   "license": "MIT",
