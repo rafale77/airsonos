@@ -25,8 +25,8 @@
     "flags": "~0.1.2",
     "ip": "1.1.0",
     "nicercast": "0.1.0",
-    "nodetunes": "^0.3.0",
-    "sonos": "git://github.com/stephen/node-sonos.git#stephen-1.0.0"
+    "nodetunes": "git://github.com/mermaid/airsonos.git#master",
+    "sonos": "~1.1.1"
   },
   "license": "MIT",
   "devDependencies": {
