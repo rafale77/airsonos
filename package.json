@@ -14,7 +14,7 @@
     "test": "jscs .",
     "prepublish": "babel ./lib/ -d ./bin/"
   },
-  "bin": "./bin/index.js",
+  "bin": "./lib/index.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/mermaid/airsonos#master"
